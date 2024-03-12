@@ -5,4 +5,4 @@ This code:
 
  Run from 'batch_crystallizer_VSC_##'
  
- Requires files: 'Cryst_model.py', 'Cryst_model_plot.py', 'Cryst_model_parmest.py'
+ Requires files: 'Cryst_model.py', 'Cryst_model_plot.py', <s>'Cryst_model_parmest.py'</s>
